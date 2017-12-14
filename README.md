@@ -1,1 +1,2 @@
-this is an android calculator application
+An android calculator application
+performing Arithmetic operations
